@@ -1,0 +1,24 @@
+body{
+    background: url(https://i.pinimg.com/originals/dc/12/10/dc1210fd6dd7be789473f8d20b324347.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search {
+    display:flex; 
+    justify-content: center;
+   
+}
+.city1{
+    display:flex; 
+    justify-content: center;
+    font-size: 40px;
+}
+.temp {
+    display:flex; 
+    justify-content: center;
+    font-size: 50px;
+}
+.img {
+    display:flex; 
+    justify-content: center;
+}
