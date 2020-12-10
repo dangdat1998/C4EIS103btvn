@@ -1,0 +1,64 @@
+.comment{
+    margin: 0px 200px 0px 300px;
+    background-color: rgb(218, 218, 218);
+    background: none;
+} 
+
+.post{
+    margin: 0px 200px ;
+    background: none;
+    border-color: black;
+    border: double
+}
+.mainn{
+    background-color: rgb(178, 252, 248);
+}
+.navb {
+    display: flex;
+    justify-content: center;
+}
+.navb i{
+
+    font-size: 35px;
+}
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-size: cover;
+    background: url("https://i.pinimg.com/originals/fd/b4/da/fdb4da07ecd3be76083fe7c13bdb81e1.png")
+}
+.nab{
+    
+    margin-top: -10px;
+    position: fixed;
+    width: 100%; 
+    
+}
+.reach{
+    margin-left: 1000px ;
+}
+.reach i{
+    padding: 20px;
+}
+.reach i:hover{
+    color: blue;
+}
+.post .reach{
+    margin-left: 600px ;
+}
+.search {
+    color:white;
+    background-color: rgb(80, 212, 221);
+}
+.search:hover{
+    background-color: rgb(201, 245, 243);
+    color:  rgb(80, 212, 221)
+}
+
+.question{
+    text-align: center;
+    color:rgb(74, 74, 109)
+}
+
+.begin{
+    background-color: rgb(206, 255, 255);
+}
